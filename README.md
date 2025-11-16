@@ -5,6 +5,7 @@
 In the digital battlefield of 2025, speed, precision, and reliability of energy storage define the outcome of every mission. Capacitance — the ability of a system to store electrical energy — has emerged as a silent yet powerful ally across radar systems, electronic Armor, laser-guided drones, and communication arrays. This report explores how advanced capacitive systems — from parallel plate arrays to coaxial and spherical capacitors — were deployed during Operation Vajra, a high-altitude defense operation conducted near the LAC in Arunachal Pradesh (August 2025). It highlights how cutting-edge capacitor technology enabled quick energy bursts, signal stability, and resilient communication networks amidst harsh electromagnetic environments.
 
 # BACKGROUND: OPERATION VAJRA (2025)
+
 ## LOCATION : High-altitude border terrain near Tawang, Arunachal Pradesh
 ## DATE : August 2025
 ## OBJECTIVE : Secure surveillance dominance and neutralize cross-border electronic interference
